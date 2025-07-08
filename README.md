@@ -15,5 +15,5 @@ runApp("interactive_dashboard.R")
 ```
 # Next steps: 
 ## Future roadmap as of 8 July 2025
-- Develop additional features and visualizations for the existing R dashboard to improve on the base dashboard
-- Write an equivalent script for this type of dashboard using Python
+- [ ] Develop additional features and visualizations for the existing R dashboard to improve on the base dashboard
+- [ ] Write an equivalent script for this type of dashboard using Python
