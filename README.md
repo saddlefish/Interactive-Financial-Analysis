@@ -11,9 +11,9 @@ A Shiny app to visualize stock prices, moving averages, and trading volume using
 ## Setup: 
 ```R
 install.packages(c("shiny","tidyquant","dplyr","ggplot2","plotly","lubridate"))
-runApp("interactive_dashboard.R")
+runApp("interactive_dashboard2.R")
 ```
 # Next steps: 
 ## Future roadmap as of 8 July 2025
-- [ ] Develop additional features and visualizations for the existing R dashboard to improve on the base dashboard
+- [x] Develop additional features and visualizations for the existing R dashboard to improve on the base dashboard (10 July)
 - [ ] Write an equivalent script for this type of dashboard using Python
